@@ -383,21 +383,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Multilingual support** — parse resumes in non-English languages
 
 ---
-
-## License
-
-[MIT](LICENSE) — Recruit responsibly.
-
 <div align="center">
-
-**[agent-recruiter](https://github.com/Ismail-2001/agent-recruiter)** by [Ismail Sajid](https://github.com/Ismail-2001)
 
 *Five agents. One shortlist. Zero recruiter fatigue.*
 
 </div>
 
 ## Attribution
-This repository is an unmodified copy of [Ismail-2001/agent-recruiter](https://github.com/Ismail-2001/agent-recruiter), imported on 2026-09-24. No code changes have been made yet.
-The code is licensed under the MIT License. The LICENSE file and its copyright notice ("Copyright (c) 2026 Daniel López Orta") are preserved unchanged.
-The upstream repository's commit history lists Daniel Lopez and Ismail Sajid as authors. That history was not carried over into this import; see the upstream repository for it.
-Imported and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
+
+Write and maintained by [Sami123d](https://github.com/Sami123d). Any future changes will be listed under "Changes in this repository" below.
