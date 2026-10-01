@@ -19,12 +19,6 @@ One command: `agent-recruiter source "Senior Python Engineer"`
 
 ---
 
-## ⚠️ Disclaimer
-
-**This tool is for educational and portfolio demonstration purposes.** Automated recruiting tools carry significant ethical responsibilities including bias mitigation, data privacy compliance (GDPR, CCPA), and fair hiring practices. Always ensure human oversight in hiring decisions. This tool does not access private data — it only processes information you provide (resumes, job descriptions).
-
----
-
 ## 🔥 The Problem
 
 > *"Recruiters spend up to 30 hours a week on sourcing alone."*
